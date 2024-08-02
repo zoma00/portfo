@@ -37,7 +37,7 @@ I have a proven track record in optimizing database performance and collaboratin
 - Git, Docker
 
 ## Projects
-- **E-commerce:** [s-emi.netlify](https://s-emi.netlify) - Successfully deployed an e-Commerce Django project on Heroku.
+- **E-commerce:** [s-emi. netlify]([https://s-emi.netlify](https://semi-netlify-517d375beb38.herokuapp.com/) - Successfully deployed an e-Commerce Django project on Heroku.
 - **User Vehicle Management System:** Developed a robust system leveraging Django for backend development.
 - **Password Security Checker:** Developed a script utilizing the HIBP API for password security.
 - **Secure Website:** Deployed a Flask application to PythonAnywhere.
