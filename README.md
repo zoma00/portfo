@@ -1,5 +1,3 @@
-Here’s a customized README file for your Python Flask portfolio repository based on the information you provided:
-
 # Hazem Elbatawy's Portfolio
 
 Welcome to my portfolio! This repository showcases my work as a Python Backend Developer, primarily using Flask and Django.
