@@ -1,42 +1,58 @@
-# portfo
-This is a Python flask server deployed on  Python anywhere displayed by a web app
-link:
-https://zoma00.pythonanywhere.com/index.html
-About
-Experience with DevAnalytica:
+Here’s a customized README file for your Python Flask portfolio repository based on the information you provided:
 
-1. Client-centric Approach:
-   - We prioritize understanding our client's unique needs and goals.
-   - Our team works closely with clients to ensure their requirements are met.
-   - We provide personalized solutions tailored to each client's specific challenges.
+# Hazem Elbatawy's Portfolio
 
-2. Project Management Expertise:
-   - Our project managers are experienced in overseeing successful data analytics projects.
-   - We use agile methodologies, such as sprints and regular reassessments, to ensure efficient project execution.
-   - Our project management approach emphasizes effective communication, collaboration, and timely delivery.
+Welcome to my portfolio! This repository showcases my work as a Python Backend Developer, primarily using Flask and Django.
 
-3. Skilled Team:
-   - Our team consists of highly skilled professionals with expertise in data analytics, software development, and DevOps.
-   - We continuously invest in training and development to stay up-to-date with the latest technologies and methodologies.
-   - Our diverse skill set enables us to handle complex data projects and deliver superior results.
+## Table of Contents
+- [About Me](#about-me)
+- [Contact Information](#contact-information)
+- [Summary](#summary)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Education & Certifications](#education--certifications)
+- [Links](#links)
 
-How We Can Help:
-- We offer comprehensive data analytics services, including data integration, data modeling, and data visualization.
-- Our team can assist with implementing DataOps practices to improve your data management and analytics processes.
-- We provide consultation and support for leveraging advanced analytics techniques, such as machine learning and AI, to gain valuable insights from your data.
+## About Me
+My name is Hazem Elbatawy, and I am a dynamic and analytical Python Backend Developer with 2 years of experience in designing and implementing secure, scalable web applications using Django and RESTful APIs. I have a strong foundation in data science, enabling the development of data-driven solutions that enhance application performance and user engagement.
 
-Project Management Support:
-- Our project managers will ensure smooth project execution, keeping
-and ensuring that deliverables are met on time.
-- We provide regular updates on project milestones, progress, and any potential risks or issues.
-- Our project managers are skilled in resource allocation, task prioritization, and effective communication to keep the project on track.
-- We maintain transparency throughout the project, keeping you informed about the status and addressing any concerns promptly.
+## Contact Information
+- **Address:** Emtedad Al Amal Alshorta, Autostrade Almaadi, Cairo, 11728, Egypt
+- **Phone:** 0020109601022
+- **Email:** [zoma0097@gmail.com](mailto:zoma0097@gmail.com)
+- **Nationality:** Egyptian
+- **Languages:** English, Arabic
 
-Skills and Expertise:
-- Our team possesses a wide range of skills, including data engineering, data analysis, data visualization, machine learning, and cloud technologies.
-- We have experience working with various tools and technologies, such as Python, R, SQL, Tableau, AWS, and Azure.
-- Our expertise allows us to handle diverse data types and deliver actionable insights for informed decision-making.
+## Summary
+I have a proven track record in optimizing database performance and collaborating effectively within cross-functional teams. I am eager to leverage my advanced problem-solving and data management skills to drive innovative solutions for customer loyalty programs, enhancing user retention and satisfaction.
 
-We are dedicated to providing exceptional project management support to ensure the successful execution of your data analytics initiatives. By leveraging our expertise and client-centric approach, we aim to exceed your expectations and deliver high-quality results. Contact us today to discuss your project requirements and how we can assist you.
+## Skills
+- Python
+- JavaScript
+- HTML, CSS
+- Django
+- Django REST Framework
+- MySQL, SQLite
+- AWS, Heroku
+- Git, Docker
 
+## Projects
+- **E-commerce:** [s-emi.netlify](https://s-emi.netlify) - Successfully deployed an e-Commerce Django project on Heroku.
+- **User Vehicle Management System:** Developed a robust system leveraging Django for backend development.
+- **Password Security Checker:** Developed a script utilizing the HIBP API for password security.
+- **Secure Website:** Deployed a Flask application to PythonAnywhere.
+- **Django Web Access Records:** Successfully deployed a scalable Django application to AWS Cloud Compute.
+
+## Education & Certifications
+- **Complete Web Development Python and Django Full-Stack Developer** (Oct 2023 - Jan 2024)
+- **Complete Python Developer Course** (Udemy, Jul 2023 - Sep 2023)
+- **Data Science Diploma** (Institution of Management Professionals, Jan 2023 - May 2023)
+- **Master the Pandas Library in Programming** (Alison, May 2023 - Jun 2023)
+- **Data Analysis using Power BI** (Institution of Management, Sep 2022 - Dec 2022)
+- **Computer Science Master** (Udemy, Feb 2024 - Apr 2024)
+
+## Links
+- [GitHub Profile](https://github.com/zoma00)
+
+© Hazem Elbatawy 2024
 
